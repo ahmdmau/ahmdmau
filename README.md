@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working as a Software Engineer Mobile at Mekari<br>🌱 I’m currently learning about SwiftUI and Flutter<br>❓ Ask me about anything related to mobile stack and related technologies<br>⚡ Fun fact: Light Mode Developer
+🔭 I'm working as a Software Engineer Mobile at Mekari<br>🌱 I’m currently learning about SwiftUI and Flutter<br>❓ Ask me about anything related to mobile stack and related technologies
 
 
 ## 🌐 Socials:
