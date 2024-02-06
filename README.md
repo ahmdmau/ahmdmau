@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working as a Software Engineer Mobile at Mekari<br>🌱 I’m currently learning about SwiftUI and Flutter<br>❓ Ask me about anything related to mobile stack and related technologies
+🔭 I'm working as a Software Engineer Mobile at Kapal Api Group<br>🌱 I’m currently learning about SwiftUI and Flutter<br>❓ Ask me about anything related to mobile stack and related technologies
 
 
 ## 🌐 Socials:
