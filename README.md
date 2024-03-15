@@ -30,3 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmdmau&show_icons=true&locale=en&layout=compact" alt="ahmdmau" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmdmau&show_icons=true&locale=en" alt="ahmdmau" /></p>
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
